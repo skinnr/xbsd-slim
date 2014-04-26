@@ -1,0 +1,27 @@
+## xbsd slim theme by skinnr (skinnr@bitmessage.ch) 
+ 
+msg_color               #afd700
+msg_font                Terminess Powerline:size=8
+msg_x                   50%
+msg_y                   70%
+
+background_style        stretch
+background_color        #1c1c1c
+
+input_font              Terminess Powerline:size=8
+input_color           	#afd700
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            52
+input_name_y            214
+input_pass_x            -1
+input_pass_y            -1
+
+username_font           Terminess Powerline:size=8
+username_color          #960050
+username_x              50
+username_y              190
+password_x              50
+password_y              190
+username_msg            Username:
+password_msg            Password:
